@@ -1,0 +1,322 @@
+0.000000 - Simulator program starting
+0.000601 - OS: preparing process 0
+0.001099 - OS: preparing process 1
+0.001206 - OS: preparing process 2
+0.001307 - OS: starting process 0
+0.001399 - Process 0: start processing action
+0.050674 - Process 0: interrupt processing action
+0.050922 - OS: starting process 1
+0.051039 - Process 1: start hard drive output on HDD 0
+0.051196 - OS: starting process 2
+0.051264 - Process 2: start processing action
+0.071317 - Process 2: end processing action
+0.071745 - Process 2: start keyboard input
+0.071985 - OS: starting process 0
+0.077072 - Process 0: end processing action
+0.077200 - Process 0: allocating memory
+0.097338 - Process 0: memory allocated at 0x00000000
+0.097616 - Process 0 completed
+0.951200 - Process 1: end hard drive output on HDD 0
+0.951200 - OS: starting process 1
+0.951526 - Process 1 completed
+1.151990 - Process 2: end keyboard input
+1.151992 - OS: starting process 2
+1.152373 - Process 2: allocating memory
+1.192444 - Process 2: memory allocated at 0x00000080
+1.193366 - Process 2: start processing action
+1.200719 - Process 2: interrupt processing action
+1.200896 - OS: starting process 2
+1.222971 - Process 2: end processing action
+1.223309 - Process 2 completed
+1.223419 - OS: preparing process 3
+1.223525 - OS: preparing process 4
+1.223631 - OS: preparing process 5
+1.223739 - OS: starting process 3
+1.223873 - Process 3: start processing action
+1.250719 - Process 3: interrupt processing action
+1.251724 - OS: starting process 4
+1.252032 - Process 4: start hard drive output on HDD 1
+1.252229 - OS: starting process 5
+1.252316 - Process 5: start processing action
+1.272442 - Process 5: end processing action
+1.273216 - Process 5: start keyboard input
+1.273433 - OS: starting process 3
+1.300722 - Process 3: interrupt processing action
+1.301331 - OS: starting process 3
+1.301510 - Process 3: end processing action
+1.301710 - Process 3: allocating memory
+1.321838 - Process 3: memory allocated at 0x00000100
+1.323826 - Process 3: interrupt processing action
+1.324019 - OS: starting process 3
+1.324322 - Process 3: memory allocated at 0x00000180
+1.324438 - Process 3 completed
+2.152236 - Process 4: end hard drive output on HDD 1
+2.152236 - OS: starting process 4
+2.152594 - Process 4 completed
+2.353438 - Process 5: end keyboard input
+2.353439 - OS: starting process 5
+2.353925 - Process 5: allocating memory
+2.393994 - Process 5: memory allocated at 0x00000200
+2.394207 - Process 5: start processing action
+2.401096 - Process 5: interrupt processing action
+2.401248 - OS: starting process 5
+2.424336 - Process 5: end processing action
+2.424784 - Process 5 completed
+2.424876 - OS: preparing process 6
+2.424969 - OS: preparing process 7
+2.425034 - OS: preparing process 8
+2.425099 - OS: starting process 6
+2.425178 - Process 6: start processing action
+2.451097 - Process 6: interrupt processing action
+2.452741 - OS: starting process 7
+2.452866 - Process 7: start hard drive output on HDD 0
+2.453051 - OS: starting process 8
+2.453158 - Process 8: start processing action
+2.473419 - Process 8: end processing action
+2.473737 - Process 8: start keyboard input
+2.473992 - OS: starting process 6
+2.501159 - Process 6: interrupt processing action
+2.505296 - OS: starting process 6
+2.508986 - Process 6: end processing action
+2.509809 - Process 6: allocating memory
+2.525102 - Process 6: interrupt processing action
+2.525284 - OS: starting process 6
+2.532559 - Process 6: memory allocated at 0x00000280
+2.532773 - Process 6 completed
+3.353058 - Process 7: end hard drive output on HDD 0
+3.353059 - OS: starting process 7
+3.353666 - Process 7 completed
+3.554026 - Process 8: end keyboard input
+3.554027 - OS: starting process 8
+3.554735 - Process 8: allocating memory
+3.594857 - Process 8: memory allocated at 0x00000300
+3.595594 - Process 8: start processing action
+3.601185 - Process 8: interrupt processing action
+3.601330 - OS: starting process 8
+3.625386 - Process 8: end processing action
+3.625734 - Process 8 completed
+3.625845 - OS: preparing process 9
+3.625946 - OS: preparing process 10
+3.626075 - OS: preparing process 11
+3.626213 - OS: starting process 9
+3.626358 - Process 9: start processing action
+3.651198 - Process 9: interrupt processing action
+3.653946 - OS: starting process 10
+3.654381 - Process 10: start hard drive output on HDD 1
+3.654683 - OS: starting process 11
+3.655299 - Process 11: start processing action
+3.675460 - Process 11: end processing action
+3.678057 - Process 11: start keyboard input
+3.678316 - OS: starting process 9
+3.701198 - Process 9: interrupt processing action
+3.701331 - OS: starting process 9
+3.708397 - Process 9: end processing action
+3.710710 - Process 9: allocating memory
+3.726208 - Process 9: interrupt processing action
+3.726953 - OS: starting process 9
+3.732577 - Process 9: memory allocated at 0x00000380
+3.733385 - Process 9 completed
+4.554735 - Process 10: end hard drive output on HDD 1
+4.554735 - OS: starting process 10
+4.555084 - Process 10 completed
+4.758320 - Process 11: end keyboard input
+4.758321 - OS: starting process 11
+4.758709 - Process 11: allocating memory
+4.798774 - Process 11: memory allocated at 0x00000400
+4.799071 - Process 11: start processing action
+4.801229 - Process 11: interrupt processing action
+4.801345 - OS: starting process 11
+4.828393 - Process 11: end processing action
+4.828613 - Process 11 completed
+4.828676 - OS: preparing process 12
+4.828746 - OS: preparing process 13
+4.828802 - OS: preparing process 14
+4.828867 - OS: starting process 12
+4.828937 - Process 12: start processing action
+4.851224 - Process 12: interrupt processing action
+4.851515 - OS: starting process 13
+4.851600 - Process 13: start hard drive output on HDD 0
+4.851799 - OS: starting process 14
+4.851894 - Process 14: start processing action
+4.871983 - Process 14: end processing action
+4.872231 - Process 14: start keyboard input
+4.872441 - OS: starting process 12
+4.901226 - Process 12: interrupt processing action
+4.901736 - OS: starting process 12
+4.904969 - Process 12: end processing action
+4.905120 - Process 12: allocating memory
+4.925209 - Process 12: memory allocated at 0x00000480
+4.925569 - Process 12 completed
+5.751806 - Process 13: end hard drive output on HDD 0
+5.751808 - OS: starting process 13
+5.752223 - Process 13 completed
+5.952445 - Process 14: end keyboard input
+5.952446 - OS: starting process 14
+5.952978 - Process 14: allocating memory
+5.993038 - Process 14: memory allocated at 0x00000500
+5.993285 - Process 14: start processing action
+6.001327 - Process 14: interrupt processing action
+6.002601 - OS: starting process 14
+6.024655 - Process 14: end processing action
+6.024873 - Process 14 completed
+6.024938 - OS: preparing process 15
+6.025001 - OS: preparing process 16
+6.025049 - OS: preparing process 17
+6.025102 - OS: starting process 15
+6.025152 - Process 15: start processing action
+6.051328 - Process 15: interrupt processing action
+6.051565 - OS: starting process 16
+6.051625 - Process 16: start hard drive output on HDD 1
+6.051761 - OS: starting process 17
+6.051815 - Process 17: start processing action
+6.071887 - Process 17: end processing action
+6.072174 - Process 17: start keyboard input
+6.072395 - OS: starting process 15
+6.100501 - Process 15: end processing action
+6.100931 - Process 15: allocating memory
+6.101354 - Process 15: interrupt processing action
+6.101714 - OS: starting process 15
+6.121049 - Process 15: memory allocated at 0x00000580
+6.121335 - Process 15 completed
+6.951766 - Process 16: end hard drive output on HDD 1
+6.951767 - OS: starting process 16
+6.952112 - Process 16 completed
+7.152399 - Process 17: end keyboard input
+7.152400 - OS: starting process 17
+7.152723 - Process 17: allocating memory
+7.192779 - Process 17: memory allocated at 0x00000600
+7.193940 - Process 17: start processing action
+7.201429 - Process 17: interrupt processing action
+7.201619 - OS: starting process 17
+7.223788 - Process 17: end processing action
+7.224575 - Process 17 completed
+7.224653 - OS: preparing process 18
+7.224722 - OS: preparing process 19
+7.224785 - OS: preparing process 20
+7.224853 - OS: starting process 18
+7.224949 - Process 18: start processing action
+7.251518 - Process 18: interrupt processing action
+7.252329 - OS: starting process 19
+7.252444 - Process 19: start hard drive output on HDD 0
+7.252604 - OS: starting process 20
+7.252684 - Process 20: start processing action
+7.272747 - Process 20: end processing action
+7.273834 - Process 20: start keyboard input
+7.274094 - OS: starting process 18
+7.301432 - Process 18: interrupt processing action
+7.304003 - OS: starting process 18
+7.304229 - Process 18: end processing action
+7.304379 - Process 18: allocating memory
+7.324542 - Process 18: memory allocated at 0x00000680
+7.326791 - Process 18: interrupt processing action
+7.326891 - OS: starting process 18
+7.327047 - Process 18: memory allocated at 0x00000700
+7.327343 - Process 18 completed
+8.152609 - Process 19: end hard drive output on HDD 0
+8.152610 - OS: starting process 19
+8.152952 - Process 19 completed
+8.354098 - Process 20: end keyboard input
+8.354099 - OS: starting process 20
+8.354456 - Process 20: allocating memory
+8.394525 - Process 20: memory allocated at 0x00000000
+8.396038 - Process 20: start processing action
+8.401479 - Process 20: interrupt processing action
+8.401624 - OS: starting process 20
+8.425704 - Process 20: end processing action
+8.426029 - Process 20 completed
+8.426128 - OS: preparing process 21
+8.426228 - OS: preparing process 22
+8.426296 - OS: preparing process 23
+8.426366 - OS: starting process 21
+8.426450 - Process 21: start processing action
+8.451480 - Process 21: interrupt processing action
+8.451751 - OS: starting process 22
+8.451854 - Process 22: start hard drive output on HDD 1
+8.452081 - OS: starting process 23
+8.452167 - Process 23: start processing action
+8.472363 - Process 23: end processing action
+8.472623 - Process 23: start keyboard input
+8.472829 - OS: starting process 21
+8.501486 - Process 21: interrupt processing action
+8.501792 - OS: starting process 21
+8.502946 - Process 21: end processing action
+8.503032 - Process 21: allocating memory
+8.523118 - Process 21: memory allocated at 0x00000080
+8.523351 - Process 21 completed
+8.526358 - OS: preparing process 24
+8.526448 - OS: preparing process 25
+8.526506 - OS: preparing process 26
+8.526563 - OS: starting process 24
+8.526642 - Process 24: start processing action
+8.551483 - Process 24: interrupt processing action
+8.551739 - OS: starting process 26
+8.551914 - Process 26: start processing action
+8.571994 - Process 26: end processing action
+8.572268 - Process 26: start keyboard input
+8.572530 - OS: starting process 24
+8.602061 - Process 24: interrupt processing action
+8.602444 - OS: starting process 24
+8.602520 - Process 24: end processing action
+8.602589 - Process 24: allocating memory
+8.622659 - Process 24: memory allocated at 0x00000100
+8.622963 - Process 24 completed
+8.623078 - OS: starting process 25
+8.623214 - Process 25: start hard drive output on HDD 0
+9.352087 - Process 22: end hard drive output on HDD 1
+9.523925 - Process 25: end hard drive output on HDD 0
+9.523927 - OS: starting process 25
+9.526673 - Process 25 completed
+9.526803 - OS: starting process 22
+9.526954 - Process 22 completed
+9.552834 - Process 23: end keyboard input
+9.552836 - OS: starting process 23
+9.554790 - OS: starting process 23
+9.555131 - Process 23: allocating memory
+9.595396 - Process 23: memory allocated at 0x00000180
+9.595676 - Process 23: start processing action
+9.603719 - Process 23: interrupt processing action
+9.606718 - OS: starting process 23
+9.628900 - Process 23: end processing action
+9.632217 - Process 23 completed
+9.652547 - Process 26: end keyboard input
+9.652548 - OS: starting process 26
+9.654293 - OS: starting process 26
+9.654408 - Process 26: allocating memory
+9.694489 - Process 26: memory allocated at 0x00000200
+9.695734 - Process 26: start processing action
+9.703721 - Process 26: interrupt processing action
+9.703853 - OS: starting process 26
+9.728166 - Process 26: end processing action
+9.728997 - Process 26 completed
+9.729099 - OS: preparing process 27
+9.729173 - OS: preparing process 28
+9.729227 - OS: preparing process 29
+9.729282 - OS: starting process 27
+9.729337 - Process 27: start processing action
+9.753723 - Process 27: interrupt processing action
+9.753972 - OS: starting process 28
+9.754039 - Process 28: start hard drive output on HDD 1
+9.754199 - OS: starting process 29
+9.754262 - Process 29: start processing action
+9.774314 - Process 29: end processing action
+9.774602 - Process 29: start keyboard input
+9.774819 - OS: starting process 27
+9.803723 - Process 27: interrupt processing action
+9.804022 - OS: starting process 27
+9.805105 - Process 27: end processing action
+9.805251 - Process 27: allocating memory
+9.825356 - Process 27: memory allocated at 0x00000280
+9.825648 - Process 27 completed
+10.654207 - Process 28: end hard drive output on HDD 1
+10.654208 - OS: starting process 28
+10.654605 - Process 28 completed
+10.854824 - Process 29: end keyboard input
+10.854825 - OS: starting process 29
+10.855472 - Process 29: allocating memory
+10.895634 - Process 29: memory allocated at 0x00000300
+10.895955 - Process 29: start processing action
+10.903785 - Process 29: interrupt processing action
+10.903925 - OS: starting process 29
+10.925985 - Process 29: end processing action
+10.926317 - Process 29 completed
+10.926453 - Simulator program ending
